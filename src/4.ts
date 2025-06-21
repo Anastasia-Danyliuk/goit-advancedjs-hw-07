@@ -49,6 +49,8 @@ class MyHouse extends House {
     }
 }
 
+
+
 const key = new Key();
 
 const house = new MyHouse(key);
